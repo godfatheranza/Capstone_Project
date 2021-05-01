@@ -31,3 +31,19 @@
 
 •	We have commented code for reading the file when running it in Google Colab if you wish to run python file in Google Colab you just need to uncomment them  and comment jupyter notebook reading file code before running it.
 
+### Steps for Running Tableau File:
+
+•	For running Tableau file, you will need titanized_sales___profit_data_tableau.xlsx  and rfm_365.csv files. Keep this file in the same folder where you keep the Tableau file.
+
+•	Rfm_365.csv is extracted from the python notebook after performing customer segmentation using RFM analysis.
+
+•	Basically, we have used 3 data sources two as mentioned in first point and third one is the joined file based upon these two files.
+
+•	If it asks for rfm_365 then locate file source rfm_365.csv.
+
+•	If it asks for titanized_sales___profit_data_tableau then locate file source titanized_sales___profit_data_tableau.xlsx. 
+
+•	we have also created a join between these 2 files if it asks you to locate them again then please locate them once more.
+
+
+
