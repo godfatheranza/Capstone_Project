@@ -16,10 +16,18 @@
 ### Steps for Running Python Notebook:
 
 •	For running python file, you will need titanized_sales___profit_data.xlsx file. Keep this file in the same folder where you keep the python file otherwise you need to change to path location in the code where we are reading this file.
+
 •	Our Excel file has four different sheets and has been explained  in below points.
+
 •	Titanized Sales Data sheet is our raw data.
+
 •	Customer ID sheet is created by us to assign the Customer ID to different Customers by using VLOOKUP function which was required for our analysis.
+
 •	Product ID sheet is created by us to assign the Product ID to different Products by using VLOOKUP function which was required for our analysis.
+
 •	Source & Credits sheet is the authority to use this data by Strategy Titan.
+
 •	While Running RFM analysis part we have written one code for saving generated results to .CSV file which will be saved into your current python file running environment as rfm_365.csv but still for safe side we are attaching this file as well.
+
 •	We have commented code for reading the file when running it in Google Colab if you wish to run python file in Google Colab you just need to uncomment them  and comment jupyter notebook reading file code before running it.
+
